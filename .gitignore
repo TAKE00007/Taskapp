@@ -1,1 +1,3 @@
 config.js
+database.json
+node_modules/ssh2/test/fixtures/
